@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     public interface IDependencyContainer
     {

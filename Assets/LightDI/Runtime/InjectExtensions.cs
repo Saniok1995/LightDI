@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     public static class InjectExtensions
     {

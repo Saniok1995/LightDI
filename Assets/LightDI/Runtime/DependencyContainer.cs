@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     public class DependencyContainer : IDependencyContainer
     {

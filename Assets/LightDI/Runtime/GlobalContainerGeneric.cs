@@ -1,4 +1,4 @@
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     public static class GlobalContainer<T>
         where T : IDependencyContainer, new()

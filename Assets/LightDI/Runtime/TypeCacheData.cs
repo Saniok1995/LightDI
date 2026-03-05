@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     internal class TypeCacheData
     {

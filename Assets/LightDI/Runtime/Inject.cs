@@ -1,6 +1,6 @@
 using System;
 
-namespace Plugins.LightDI
+namespace LightDI.Runtime
 {
     [AttributeUsage(AttributeTargets.Field, Inherited = true, AllowMultiple = false)]
     public class InjectAttribute : Attribute
