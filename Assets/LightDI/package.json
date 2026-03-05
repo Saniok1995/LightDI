@@ -1,0 +1,9 @@
+{
+  "name": "com.saniok1995.lightdi",
+  "displayName": "LightDI",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Light DI (Dependency Injection) for Unity",
+  "keywords": ["DI", "Dependency Injection", "DI Container", "WebGL DI"],
+  "license": "MIT",
+}
